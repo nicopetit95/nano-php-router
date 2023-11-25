@@ -1,0 +1,16 @@
+{
+    "name": "nicopetit95/nano-php-router",
+    "description": "Nano router for some of my PHP projects",
+    "autoload": {
+        "psr-4": {
+            "NicoPetit95\\NanoPhpRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nicolas Petit",
+            "email": "mail@nicolaspetit.dev"
+        }
+    ],
+    "require": {}
+}
